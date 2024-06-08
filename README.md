@@ -1,4 +1,4 @@
-## Hi there I'm Khushi Deshwal👋
+## Hi I'm Khushi Deshwal👋
 
 <!--
 **deshwal28/deshwal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

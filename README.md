@@ -1,4 +1,7 @@
 ## Hi there I'm Khushi Deshwal👋
+
+<!--
+**deshwal28/deshwal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-**deshwal28/deshwal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![MasterHead](https://images.app.goo.gl/LhDKX8hZsRV4F2U68)
 <h3 align="center">A passionate frontend developer from India</h3>

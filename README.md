@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://images.app.goo.gl/LhDKX8hZsRV4F2U68)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt ="Coding" width= "400" src="https://images.playground.com/4113d2d376d24bd69824a43d6e940592.jpeg">
 
